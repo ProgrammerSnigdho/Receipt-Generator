@@ -1,2 +1,0 @@
-Butter = 200
-Burger = 60
